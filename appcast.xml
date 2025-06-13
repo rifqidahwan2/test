@@ -11,7 +11,7 @@
         <enclosure
             url="https://f626-140-213-190-45.ngrok-free.app/storage/auto_updater_time-tracker-1-0-2.exe"
             sparkle:dsaSignature="MDwCHEPMZsCHf7VLFV/pYoo0nmKURpiAAGqGJvijB4UCHBgzO+Pmp5O30RtXLpincOvfBjKuA7JG3ExcB1M="
-            sparkle:version="1.0.1"
+            sparkle:version="1.0.2"
             sparkle:os="windows"
             length="12345678"
             type="application/octet-stream"/>
