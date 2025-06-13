@@ -5,12 +5,12 @@
         <description>Most recent updates to auto_updater_example</description>
         <language>en</language>
        <item>
-        <title>Version 1.0.1</title>
-        <sparkle:releaseNotesLink>https://your_domain/your_path/release_notes.html</sparkle:releaseNotesLink>
+        <title>Version 1.0.2</title>
+        <sparkle:releaseNotesLink>https://rifqidahwan2.github.io/test</sparkle:releaseNotesLink>
         <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
         <enclosure
             url="https://f626-140-213-190-45.ngrok-free.app/storage/auto_updater_time-tracker-1-0-2.exe"
-            sparkle:dsaSignature="MEUCIQCVbVzVID7H3aUzAY5znpi+ySZKznkukV8whlMFzKh66AIgREUGOmvavlcg6hwAwkb2o4IqVE/D56ipIBshIqCH8rk="
+            sparkle:dsaSignature="MDwCHEPMZsCHf7VLFV/pYoo0nmKURpiAAGqGJvijB4UCHBgzO+Pmp5O30RtXLpincOvfBjKuA7JG3ExcB1M="
             sparkle:version="1.0.1"
             sparkle:os="windows"
             length="12345678"
